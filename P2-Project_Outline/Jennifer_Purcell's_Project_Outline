@@ -1,0 +1,22 @@
+** Project Outline **
+* Overview *
+My project will be an app to allow any user to view recipes via an ingredient search and save them for future reference.  The user would also be able to delete menus from their favorite’s list.
+This project was motivated by the need for users to be able to be able to access menus via their specified ingredients list.
+* Features *
+•	User login: The user will login via their Gmail account.
+•	A favorite recipes list: The user will be able to create/delete from a list of their favorite recipes.
+•	Access favorited recipes: A favorites tab will show the list of favorited recipes.
+* Technologies *
+•	React
+•	API
+•	Firebase
+* What I'll Have to Learn *
+•	How to design and create the login via the user’s Gmail account.
+•	How to logout the user.
+•	How to setup and link the project to the Firebase database.
+•	How to design the user’s interface for searching for recipes via ingredients.
+•	How to design the way that the recipes will display on the favorites list.
+•	How to allow the user to favorite recipes, which adds these recipes to the database.
+•	How to allow the user to unfavorite recipes, which deletes these recipes from the database.
+•	How to deploy the app via Heroku.
+•	How to create a vide
