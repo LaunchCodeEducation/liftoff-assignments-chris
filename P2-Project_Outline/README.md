@@ -14,6 +14,9 @@ This project was motivated by the need of a nonprofit organization that wants a 
 - Volunteer tracking: Users will be able to add volunteers to the system, and to assign volunteers to events.
 - Delete events: Users will be able to delete events.
 
+## Trello Board
+https://trello.com/b/ca6ktXt0/final-project-kanban-board
+
 ## Technologies
 
 - Java
@@ -21,9 +24,16 @@ This project was motivated by the need of a nonprofit organization that wants a 
 - MySQL
 - Thymeleaf templates
 - Bootstrap
+- Java Script
 
 ## What I'll Have to Learn
 
 For the login functionality, I'll have to learn something new in either scenario. If I choose to use native login functionality for the site, I'll need to learn how to use the login approach outlined in the [`spring-filter-based-auth` repository](https://github.com/LaunchCodeEducation/spring-filter-based-auth). If I choose to use third-party authentication, I'll need to learn how to use an OAuth2 provider such as Google Authentication.
 
 I'll also be using test-driven development, writing tests for my code before writing the code itself. I don't have much experience doing this in Spring, so I'll have to learn how to use its testing capabilities.
+
+## Group 
+- Danyale 
+- Priayakia
+- Alex
+- Wendel
